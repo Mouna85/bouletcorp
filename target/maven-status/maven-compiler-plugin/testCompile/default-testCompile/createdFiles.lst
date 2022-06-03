@@ -1,0 +1,9 @@
+com\canal\automation\bouletCorp\aleatoire\stepDefinitions\AleatoireStepDefinition.class
+com\canal\automation\bouletCorp\utils\BasePage.class
+com\canal\automation\bouletCorp\utils\CommonUtils.class
+com\canal\automation\bouletCorp\aleatoire\pageObjects\AleatoirePage.class
+com\canal\automation\bouletCorp\utils\Assertions.class
+com\canal\automation\bouletCorp\utils\TearDown.class
+com\canal\automation\bouletCorp\utils\SelectFromListUtils.class
+com\canal\automation\bouletCorp\TestRunner.class
+com\canal\automation\bouletCorp\utils\Setup.class
